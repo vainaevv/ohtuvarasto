@@ -1,0 +1,3 @@
+New-Item -Path "C:\Users\Antti Vainikainen\ohjelmistotuotantoharjoitus5\joj.txt -ItemType File
+
+Tehdään uusi tiedosto. Sille asetetaan tarkka paikka kansiossa ja viimeiseksi asetetaan tiedoston nimi sekä tyyppi. Viimeisenä kerrotaan mitä tehdään ja siihen asetetaan File.
